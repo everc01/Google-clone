@@ -42,8 +42,10 @@ height: 400px;
 }
 .logo-title{
     font-size: 6em;
-
-    
+ 
+}
+ a{
+    text-decoration: none;
 }
 .G{
    color: #4285F4;
